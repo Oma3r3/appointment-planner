@@ -1,6 +1,6 @@
 # appointment-planner
 
-A simple appointment planner web app built with React. It allows you to enter name, phone and email to create a contact and create an appoitment for any contact by including appointment name, time, and date.
+A simple appointment planner web app built with React. It allows you to enter name, phone and email to create a contact and create an appointment for any contact by including appointment name, time, and date.
 
 ## Installation
 
