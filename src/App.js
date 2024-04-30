@@ -38,6 +38,7 @@ function App() {
 
   return (
     <>
+    <div style = {{alignItems:"center"}}><h1>Dentist Appointments</h1></div>
       <nav>
         <NavLink to={ROUTES.CONTACTS} activeClassName="active">
           Contacts
